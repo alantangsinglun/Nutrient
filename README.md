@@ -1,3 +1,3 @@
 # Nutrient Calculator
 
-# For those who wants to live forever.
+# To Lock the Records, you need to retype in the meal name and the nutrient's values. 
