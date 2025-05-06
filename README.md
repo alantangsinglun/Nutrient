@@ -1,10 +1,5 @@
 # Nutrient - Your Health Campanion
 
-# DISCLAIMER
-
-This is Not For Tencent. If Needed help or assistant please contact us. We are likely to help.
-
-
 ## Overview
 
 This is a Nutrient Record and Calculator. The nutrient's of a meal is calculated based on the poportion of the actual ingredient's nutrient. 
