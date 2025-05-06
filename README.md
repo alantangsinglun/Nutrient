@@ -8,7 +8,7 @@ You can also record your own blood pressure.
 ## Ussage
 
  * Nutients
-    1. I have provide a 5 meal plan as a demo including the intake recorded. You can delete as you like.
+    1. I have provide a 6 meal plan as a demo including the intake recorded. You can delete as you like.
     2. To use, set your own meal plan by copying all the contents from the "Ingredients Menu Template".
     3. To record each day's meal. You can do it by copying all the contents from the "Daily Food Intake Template".
     4. For each meal type in the grams of the ingredient you have consume. It will automatically calculate the relevant nutients.
