@@ -18,7 +18,7 @@ Usage
 
 - Create A Meal
 
-    i.A 5 meal plan as a demo is included. You can delete as you like.
+    i.A 6 meal plan as a demo is included. You can delete as you like.
     ii.To use, set your own meal plan by copying all the contents from the "Ingredients Menu Template" to a new worksheet.
     iii.After copying, rename the worksheet to the meal name you want to name. 
     iv.There are 2 parts you need to modify. For the upper part, modify the ingredient header label. For example you have an ingredient let say “Oat”, just rename the “Ingredient 1” to “Oat” and then fill in the nutrient values. 
@@ -46,4 +46,4 @@ To add a particular day for recording
 
 Resources Of Nutrient:
 Recommended Book
-- Nutrients In Food (Author: Elizabeth S. Hands) a nutrient CD is included,Although I don’t have :)
+- Nutrients In Food (Author: Elizabeth S. Hands) a nutrient CD is included.
