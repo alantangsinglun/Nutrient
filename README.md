@@ -1,10 +1,24 @@
-# Nutrient Calculator
+# Nutrient - Your Health Campanion
 
-## To Lock the Records, you need to retype in the meal name and the nutrient's values. 
+# DISCLAIMER
 
-## References
+This is Not For Tencent. If Needed help or assistant please contact us. We are likely to help.
 
-* Nutrient Reference
-    * [Nutrients In Food - Author: Elizabeth S. Hands](https://www.amazon.com/-/zh_TW/Elizabeth-S-Hands/dp/0683307053/ref=sr_1_1?crid=BOEX1LXZJ42U&dib=eyJ2IjoiMSJ9.mqNTm4v9cOfA_2FRu-CkcjNCJyEWANJnV_mFZ8cg4lUCIR1hlD6xq0W7zZ8otQFsKFw2AGQK15VTWAiHfDq4o39i0uncerEhtgaksNvNQUu8dxlAl550hpO2smpEntOzy9Tv0zvX0mm3BQuAOhn7S-_WUzzCEFBnW159rTpopAYQxW7txR4ug0zqK3xrD0MZfSwJ8_I4eEQc3uUgwNdQD1XV_a8q2MK8JYer-QIKmGI.FVSBwXmd6HpgA2pw2Oi86SExAl87SnohaDASaIi_z0Q&dib_tag=se&keywords=nutrients+in+food&qid=1745951962&s=books&sprefix=nutrients+in+food%2Cstripbooks-intl-ship%2C280&sr=1-1)
-    * [The Health Nutrient Bible - Author: Lynn Songberg](https://www.amazon.com/-/zh_TW/Lynn-Sonberg/dp/0684810719/ref=sr_1_1?crid=2XWLYK0BWG73N&dib=eyJ2IjoiMSJ9.ORZSZzWlbdsWqJE3Uql6xyLHnffmsRF9janpd1uQ7RdCreaJV8j1tLUer8W-_v40JHSwhnTswmsIatOVNWV4k5scSl94w5lwBi4gmBx7v-F8cLDzG-g7tQSwAiXgexLhgp1JfD32vQYoEiVDLWYzzmJJlGt4HmpAibrmfJwcuHjfWHZwyxi8cG0tgTu6hV2izcLTM3rCGmTtVSe1vnfgj185oEHGk0Ib_Dyb4qZcQIM.RmJ3L-BNigYEVs1-Uury1U8EyFqnGSJ7AXeacGNppsY&dib_tag=se&keywords=The+health+nutrient+bible&qid=1745952069&s=books&sprefix=the+health+nutrient+bible%2Cstripbooks-intl-ship%2C305&sr=1-1)
-    * [Center For Food Safety - Hong Kong Government](https://www.cfs.gov.hk/english/nutrient/searchmenu.php)
+
+## Overview
+
+This is a Nutrient Record and Calculator. The nutrient's of a meal is calculated based on the poportion of the actual ingredient's nutrient. 
+You can also record your own blood pressure. 
+
+## Ussage
+
+ * Nutients
+    1. I have provide a 5 meal plan as a demo including the intake recorded. You can delete as you like.
+    2. To use, set your own meal plan by copying all the contents from the "Ingredients Menu Template".
+    3. To record each day's meal. You can do it by copying all the contents from the "Daily Food Intake Template".
+    4. For each meal type in the grams of the ingredient you have consume. It will automatically calculate the relevant nutients.
+    5. To Lock the data for that day, please type in manually "AGAIN" the calories and nutrients calculated, including the nutrients figures, meal and ingredient name or else
+       everything will be resetted when the portion of the meal changes. You can take a look at the demo. 
+
+ * Blood pressure monitor 
+    1. Type in the data recorded from the pressure monitor.
